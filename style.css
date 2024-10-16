@@ -10,19 +10,20 @@ body{
 .header{
     width: 100%;
     height: 100%;
-   
+   display: flex;
     margin: 0px;
     padding: 0;
 }
 .logo{
-    display: inline-block;
- 
+   
+ padding-top: 20px;
     margin-left: 450px;
     
 }
 .nav {
-   display: inline-block;
+ 
    list-style-type: none;
+   
   
    margin-left: 350px;
 
