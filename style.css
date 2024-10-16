@@ -73,3 +73,45 @@ li{
     color: white;
 }
 
+.main{
+    background: white;
+    color: black;
+    
+}
+h2{
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    justify-content: center;
+    
+}
+.inner-box{
+    border: 2px solid blue;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 5px;
+    
+
+}
+
+.outer-box{
+    border: 2px solid black;
+    width: 180px;
+    height: 300px;
+    margin: 1px;
+    
+    
+}
+
+.pr{
+    
+    margin: 20px;
+    font-size: 15px;
+    width: 150px;
+}
